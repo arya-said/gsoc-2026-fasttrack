@@ -55,3 +55,12 @@ This repository will track:
 ---
 
 **This repo is my public commitment to growth.**
+
+
+## Progress Log
+
+- Day 1: Setup done
+- Day 2: Linux + Git practice
+- Day 3: Branching and merging
+- Day 4: GitHub & Open Source understanding
+
